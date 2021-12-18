@@ -1,4 +1,4 @@
-# ag_trial_7
+# Life Score
 
 A new Flutter project.
 
